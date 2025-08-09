@@ -1,0 +1,1 @@
+export const Api = "https://685009fae7c42cfd179716dc.mockapi.io/DATA/React1Exzam2"

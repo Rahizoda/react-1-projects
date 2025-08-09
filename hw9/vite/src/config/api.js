@@ -1,0 +1,2 @@
+ 
+ export const Api = 'https://68500abee7c42cfd17971bfc.mockapi.io/data/student'
